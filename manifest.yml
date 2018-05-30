@@ -4,7 +4,7 @@ declared-services:
     label: conversation
     plan: free
 applications:
-- name: watson-assistant-simple
+- name: ChatBOT
   command: npm start
   path: .
   memory: 256M
